@@ -1,4 +1,4 @@
-# 🚀 Awesome Frontend Frameworks
+# 🚀 Awesome Frontend
 
 > 收集热门前端框架、全栈框架、UI 框架及相关生态。
 
